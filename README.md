@@ -7,46 +7,46 @@ Solution: Our system offers a robust solution to common inventory management pro
 
 Doctor Portal
 Login Page of Doctor Portal:
-![alt text](image.png)
+![alt text](src/screenshots/image.png)
 
 Prescription Page in Doctor Page:
-![alt text](image-1.png)
+![alt text](src/screenshots/image-1.png)
 
 After writing prescription Generate QRcode:
-![alt text](image-2.png)
+![alt text](src/screenshots/image-2.png)
 
 Login Page of Medical Portal:
- ![alt text](image-4.png)
+ ![alt text](src/screenshots/image-4.png)
 
 
 
 Medical Portal
 Dashboard of Medical Portal:
- ![alt text](image-5.png)
+ ![alt text](src/screenshots/image-5.png)
 
 View Products:
- ![alt text](image-6.png)
+ ![alt text](src/screenshots/image-6.png)
 
 Searching Feature:
-![alt text](image-3.png)
+![alt text](src/screenshots/image-3.png)
 
 Data Uploading Page:	
- ![alt text](image-7.png)
+ ![alt text](src/screenshots/image-7.png)
 
  Scanning Page:
- ![alt text](image-8.png)
+ ![alt text](src/screenshots/image-8.png)
 
  Scanned data is displaying:
- ![alt text](image-9.png)
+ ![alt text](src/screenshots/image-9.png)
  
  Available Data is displayed:
- ![alt text](image-10.png)
+ ![alt text](src/screenshots/image-10.png)
 
  Bill Generated:
- ![alt text](image-11.png)
+ ![alt text](src/screenshots/image-11.png)
 
  History of Bills:
- ![alt text](image-12.png)
+ ![alt text](src/screenshots/image-12.png)
 
  Orders Page:
- ![alt text](image-13.png)
+ ![alt text](src/screenshots/image-13.png)
